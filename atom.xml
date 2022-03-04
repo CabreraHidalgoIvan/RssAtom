@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Marvel</title>
+    <link href="https://github.com/CabreraHidalgoIvan/RSS_ICH.git"/>
+    <sumary>Novedades y noticias Universo Marvel</sumary>
+    <category>Marvel/Series/Peliculas</category>
+    <entry>
+        <title>Guardianes de la Galaxia Vol. 3: Zoe Saldaña habla de un final emotivo</title>
+        <link href="https://www.espaciomarvelita.com/2022/02/15/cine/guardianes-galaxia-vol-3-zoe-saldana-habla-final-emotivo/"/>
+        <sumary>Hablando en una entrevista reciente, Zoe Saldaña hizo referencia a cómo está siendo para ella el rodaje de la película Guardianes de la Galaxia Vol. 3, que se encuentra actualmente en rodaje y en la que remite una vez más su papel de Gamora</sumary>
+        <logo>
+            <url>https://www.espaciomarvelita.com/wp-content/uploads/2021/05/Logo-Guardianes-de-la-Galaxia-Vol.-3-scaled.jpg</url>
+            <title>Guardianes de la galaxia vol.3</title>
+            <link href="https://www.espaciomarvelita.com/"/>
+        </logo>
+    </entry>
+    <entry>
+        <title>Éste es el orden cronológico adecuado para ver las películas y series de Marvel</title>
+        <link href="https://www.superaficionados.com/orden-peliculas-series-marvel/"/>
+        <sumary>Marvel lleva ya 10 años apostando fuerte por su universo cinematográfico produciendo anualmente varias películas y series sobre sus héroes. Con tanta oferta, es difícil entender cuál es el orden cronológico adecuado para un visionado completo.</sumary>
+        <logo>
+            <url>https://cdn.superaficionados.com/logones/the-first-avenger-0-cke.jpg</url>
+            <title>Capitán America</title>
+            <link href="https://www.superaficionados.com/"/>
+        </logo>
+    </entry>
+    <entry>
+        <title>5 teorías de los fans de Marvel que fueron confirmadas en las películas</title>
+        <link href="https://holatelcel.com/blog-de-entretenimiento/5-teorias-los-fans-marvel-fueron-confirmadas-las-peliculas/"/>
+        <sumary>El Universo Cinematográfico de Marvel se ha convertido en una de las franquicias más exitosas del cine; la cual ha logrado reunir a decenas de superhéroes y colocarse entre las películas más taquilleras de la historia.</sumary>
+        <logo>
+            <url>https://holatelcel.com/wp-content/uploads/2020/07/teorias-marvel-.png</url>
+            <title>Teorías de Marvel</title>
+            <link href="https://holatelcel.com/"/>
+        </logo>
+    </entry>
+    <entry>
+        <title>Marvel revela cuál es la verdad oculta en la frase “Soy Groot”</title>
+        <link href="https://depor.com/depor-play/comics/marvel-revela-cual-es-la-verdad-oculta-en-la-frase-soy-groot-ucm-fase-4-guardians-of-the-galaxy-guardianes-de-la-galaxia-mexico-espana-noticia/"/>
+        <sumary>El querido personaje de Guardianes de la Galaxia en realidad no quiere decir “Soy Groot”, sino otra frase algo confusa cuando evalúas los cómics en inglés.</sumary>
+        <logo>
+            <url>https://depor.com/resizer/jUvXSwMElyVCISvgxnYj10vqD6E=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.logos.arcpublishing.com/elcomercio/RTDG4JJDQZB6RNMDFKHZ2F3HHE.jpg</url>
+            <title>Es Groot</title>
+            <link href="https://depor.com/"/>
+        </logo>
+    </entry>
+</feed>

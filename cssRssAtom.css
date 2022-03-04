@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+a {
+    padding-right: 40%;
+    background-color: blue;
+    color: #fff;
+}
